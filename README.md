@@ -1,4 +1,4 @@
-## Hello World , I'm The Anh [a.k.a vizer]
+## Hello World , I'm Chu The Anh [a.k.a vizer]
 <br>I am currently a student at [Duy Tan University](https://duytan.edu.vn) majoring in Cybersecurity.
 <br>CTF player for [ISITDTU](https://ctftime.org/team/8241) / [WWF](https://ctftime.org/team/283853).
 
