@@ -14,5 +14,3 @@
 > - Discord: <code>vjz3r</code>
 
 ![](https://komarev.com/ghpvc/?username=vjz3r&color=lightgrey)
-
-![cd192cdbaae2b126d66f1e5b257cc471](https://github.com/user-attachments/assets/8928b705-f569-4a4a-8a72-f4e2889fc8ee)
