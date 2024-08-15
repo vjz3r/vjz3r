@@ -1,6 +1,5 @@
 ## Hello World , I'm Chu The Anh [a.k.a vizer]
 <img align="right" width="300" src="https://github.com/user-attachments/assets/fd9c8013-2359-49cd-b0b7-848f840f81fe" style="vertical-align:middle">
-<br>
 
 I am currently a student at [Duy Tan University](https://duytan.edu.vn) majoring in Cybersecurity.
 <br>CTF player for [ISITDTU](https://ctftime.org/team/8241) / [WWF](https://ctftime.org/team/283853).
