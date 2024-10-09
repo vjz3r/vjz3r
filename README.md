@@ -9,7 +9,7 @@ I am currently a student at [Duy Tan University](https://duytan.edu.vn) majoring
 ### Feel free to reach out to me via
 >
 > - Email: <code>viz3r@proton.me</code>
-> - Discord: <code>vjz3r</code>
+> - Discord: <code>[vjz3r](https://discordapp.com/users/664709811547537408)</code>
 
 ![](https://komarev.com/ghpvc/?username=vjz3r&color=lightgrey)
 
